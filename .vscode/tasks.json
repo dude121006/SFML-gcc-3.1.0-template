@@ -27,7 +27,7 @@
             "type": "shell",
             // "command": "D:/Krishanth/Dev/C++/Projects/Trash/bin/main.exe",
             "command": "start",
-            "args": ["D:/Krishanth/Dev/C++/Projects/Trash/run.bat"],
+            "args": ["./run.bat"],
             "group": "test",
 			"dependsOn" : ["compile"],
 			"presentation":
